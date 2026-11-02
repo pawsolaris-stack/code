@@ -45,7 +45,7 @@ The goal is to understand the threat model — not to weaponize it.
 
 - 🔑 Hybrid encryption: AES for files, RSA for key wrapping
 - 🗂️ Recursive directory traversal with configurable file extension filters
-- 💾 Encrypted files written with a custom extension (e.g., `.vault`)
+- 💾 Encrypted files written with a custom extension (e.g., `.9tAil5`)
 - 🧪 Built-in safe test environment: creates dummy files in an isolated sandbox directory
 - 🔓 Decryption mode using the recovered private key
 - 📜 Detailed logging of every operation (**no network calls at all**)
